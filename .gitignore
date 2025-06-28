@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+Question Two/Michael_sen202_env/
+
+# Ignore Django DB and logs
+*.sqlite3
+*.log
+
+# Ignore config and system files
+.env
+.DS_Store
+*.swp
+.vscode/
